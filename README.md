@@ -3,9 +3,9 @@ Enable wifi monitor for Termux
 
 Install:
 
-$ git clone https://github.com/mkdirlove/TERMON
+$ git clone https://github.com/MrHackerOfficial/termux-monitor-mode.git
 
-$ cd TERMON
+$ cd termux-monitor-mode
 
 $ chmod +x install.sh
 
